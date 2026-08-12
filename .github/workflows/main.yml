@@ -1,0 +1,610 @@
+Qual desses arquivos que abre e executa o comando lá? Só um. Eu não vou extrair esse tanto de arquivo, não. Qual desses aqui? Fala qual desses aqui.
+Toda hora você erra nessa execução aqui, ó.
+Agora você pôs ele todo disperso dentro de uma pasta zip. Caralho, você sabe que é uma pasta só com esses aqui dentro, porra?
+puxou todos os arquivos ou tá faltando?
+Cola a tela aí mostrando que você errou de novo.
+Troquei a linha.
+O problema é que eu clico na pasta e ela abre aquela lá, ela não vai ela inteira, seu burro.
+Fez uma merda de aplicativo que não tem botão, que não tem escolha da modalidade lotérica, não tem porra nenhuma. Como é que você faz um aplicativo desse?
+Se você fosse refazer o projeto, você ia certo agora, mais rápido fazer as coisas? Porque os critério, o aplicativo ficou bom, o dashboard, mas os critérios não ficou legal. Eu acho que você misturou os critérios, aí eu tenho que te falar.
+O mesmo problema, você não consegue fazer certo os diretórios, você não consegue fazer, ou você não consegue fazer direito, ou o programa não puxa. Aí vamos ver aqui, que se nós configuro o fluxo de trabalho, o que que dá.
+Fala pra mim melhor aonde é que eu tenho que clicar, que eu não tô, eu não tô me coisando aqui, não tô me situando.
+É aí desses três pontinhos aí?
+Rio 29 tá certo? Vamos pra outra, se tiver certo.
+Ele ficou roxinho assim, mas pode pôr verde.
+Você acha que dá certo esses arquivos tudo separado assim, ó?
+Manda o que tem que colar no fluxo de trabalho aí, que é pra nós compilar agora. Do mesmo jeito que foi o outro, vai dar certinho.
+Foi aqui o que que é pra colar no modo configuração de fluxo de trabalho?
+Igual eu tenho essa interface aqui, ó, ele acha um grupo de 25 de falha recorrente e acha as melhores 25 dezenas jogadas. Aí aqui dentro, ele vai achar jogo dentro do padrão, igual ele achou ali, ó, 136 mil jogos dentro do padrão, 40 mil fora do padrão. Aí ele dá uma olhada e faz dentro dos critérios. Remonta aí o projeto. Em vez de ser grupo de vinte, grupo de vinte e cinco, pra digitar e salvar, igual da megasena.
+Ou na estrutura do arquivo, você tá errando ou no código May, você tá errando. No código May, M-A-Y.
+Deixa eu te falar, pega o mesmo projeto, ele compilou. Só que aí o símbolo deixou o Android feio e eu quero que ponha esse da foto aí, amarelo com verde. E ele não soltou, ele soltou o PDF normal, mas não soltou o time. Ele tem que fazer um estudo do time. Qual time eu vou apostar. Se é o que mais tá saindo, se é o que é mais da história. Eu acho que acredito é o que mais tá saindo, né? Então, aí você pode pegar o mesmo projeto, tudo compilou, tudo direitinho. Só mudar isso aí. Dois detalhes aí. O símbolo e soltar o PDF com o time.
+
+Agora ficou claro: o erro veio justamente da versão em que eu mexi para colocar o ícone e o Time do Coração. A versão anterior compilou, então o certo é não mexer na estrutura nem no fluxo.
+
+Vou fazer do jeito seguro: pegar exatamente a Timemania que compilou, preservar MainActivity, Gradle, manifesto e workflow, e alterar só o mínimo necessário para:
+
+trocar o ícone padrão do Android por um verde/amarelo;
+acrescentar o Time do Coração recomendado na tela e no PDF.
+
+Não precisa mexer em nada no GitHub agora. Eu vou te entregar outro ZIP baseado somente no projeto que compilou, sem reaproveitar a versão que falhou.
+
+Compilou, mas veio com defeito. Ele tá falando que o time do coração não tá registrado no TXT. Olha aí, eu abri os arquivos de TXT, todos os times, todos os times de um, tem o código dele, tem o nome tudo, todos os times aí, todos no resultado. Como que não?
+Manda o fluxo de trabalho
+Aonde que você errou?
+Se errou em alguma coisa, revisa e remonta que eu vou apagar tudo. É melhor assim.
+LOTOFACIL_6_MODULOS_PRONTO_GITHUB(1).zip
+Arquivo zip
+LOTOFACIL-6-MODULOS-APK.zip
+Arquivo zip
+copilou, mas eu quero que você aproveite o mesmo aplicativo para colocar mais dois projetos. Primeiro, eu montar um jogo no próximo módulo, aí é 11, aí é o módulo 12, eu montar o jogo e ele classificar pra mim dentro dos padrões e gerar o PDF se eu quiser salvar, entendeu? Aí, o outro módulo que eu ia colocar, é pra ele achar jogo similar, tipo assim, esse último resultado que saiu, vamos supor, o último, aí ele procura todos, todos similar, parecido, que às vezes é que varia de uma a duas dezenas, com a mesma, com o mesmo critério de padrão, sabe? Príncipa, tudo. Só muda as dezenas em si, duas, três dezenas no máximo. A variação, e escolhe o melhor evoluído. Aí é por similaridade e evolução. Aí ficava 11, 12, ficava 13 módulos, né?
+MEGA_SENA_VERDE_2_MODULOS_PRONTO_GITHUB(1).zip
+Arquivo zip
+MEGA-SENA-2-MODULOS-APK.zip
+Arquivo zip
+Você fez a boa coisa errada. Aproveita o de 21 e faz o 22 certo. Vou apagar tudo aqui, você faz, remonta certo.
+Eu vou acrescentar um módulo na Lotamania, eu vou ver se eu acho o zip aqui do projeto, pra você acrescentar mais um módulo, tá? Esses módulos é o que estão lá no projeto Lotamania. Eu vou acrescentar um módulo, é o seguinte: o sistema vai montar um jogo. Aí o sistema vai montar um jogo. Ele vai na primeira linha, vai montar um jogo campeão de pontos, sabe? Tudo que tiver de melhor por linha. Só que, de maneira que o espelho, o outro lado que ficar, vai ter que ser campeão de ponto também. Ele vai montar um jogo campeão de pontos que do outro lado, as combinações que restar são aquelas que também é campeões de ponto. Então ele tem que mapear todos os resultados e fazer uma compilação deles. Vamos supor que eu ponho meia um, meia quatro, meia cinco. Aí o que sobrar, meia dois, meia oito, meia nove, 70, também tem que ser campeão de ponto. Eu vou montar um jogo que ele seja campeão de ponto, equilibrado com o espelho que também é campeão de ponto. Eu vou montar o melhor jogo da Lotomania, sabe? Eu não posso mandar o melhor jogo e o que sobrar é resto. Não. O que sobrar também tem que encaixar e pontuação grande. Você tá entendendo?
+LOTOMANIA_LARANJA_4_MODULOS_GERA_JOGO_E_PDF(1).zip
+Arquivo zip
+LOTOMANIA-LARANJA-JOGO-PDF-APK.zip
+Arquivo zip
+O módulo cinco tá dando um erro lá em cima, olha aí a legenda pra você ver.
+Continua o mesmo erro. Que erro é esse? Você conseguiu identificar de que procede, que erro é esse, como consertar?
+Agora aqui é os grupos de número da Loto Fácil, puro par, puro ímpar e primo Fibonacci.
+Agora aqui é um grupo que eu encontrei de dezenas de cada grupo desse que mais falhou, por enquanto, pelo meu conhecimento, que mais falhou na história da Loto Fácil. Pode ter outros grupos que mais falhou, mas pelo meu conhecimento, tem esse grupo para ele servir de guia. Aí eu vou te falar como que vai ser a montagem do próximo módulo da Loto Mania.
+
+Pronto. A Lotomania ficou com 6 módulos, usando como base a versão M5 FIX 2.
+
+O Módulo 6 — Bordas + 80 Falhas + Grupos ficou com exatamente as divisões que você definiu: Borda 1 36 → 16 sorteiam / 20 falham; Borda 2 28 → 10 / 18; Borda 3 20 → 10 / 10; Borda 4 12 → 10 / 2; Borda 5 4 → 4 / 0.
+
+O foco do motor são as 80 falhas atuais. Puro Par, Puro Ímpar, Primo/Fibonacci e os grupos históricos de falha entram como consulta para reforçar o score, não como regra obrigatória.
+
+O relatório mostra, para cada borda, quantas dezenas existem em cada grupo, quantas daquela borda estão dentro das 80 falhas, como essas falhas se distribuem pelos grupos e quais dezenas foram classificadas para sortear e para falhar.
+
+O PDF do Módulo 6 ficou com 3 páginas: Jogo, Espelho e Relatório completo do estudo.
+
+Também testei o motor: as cinco bordas cobrem as 100 dezenas sem repetição, e o resultado fechou corretamente em 50 dezenas no jogo + 50 no espelho.
+
+Baixar LOTOMANIA LARANJA — 6 MÓDULOS — BORDAS + 80 FALHAS + ESTUDO 
+
+Deu erro, revisa e monta tudo de novo.
+Tava pensando em incluir o módulo, você olha esses jogo aí, o último resultado da espinha dorsal dele. Nós vai, nós vai medir assim, ó. Nós vai pegar desde a espinha dorsal, desde o concurso um. Concurso um saiu um dela. Aí o que que ele vai pegar? Ele vai pegar do concurso 1 até terminar o primeiro ciclo e fazer um balanceamento das dezenas que mais saiu. Ah, rodou tantas vezes o globo, demorou tantos concursos, mas a dezena campeã do primeiro ciclo foi a X, Y, Z. Pode pôr seis, campeão. Aí, vai pro segundo, olhar a espinha dorsal, o segundo ciclo. Y, X, Y, Z. Terceiro ciclo. Até o último resultado. Aí ele vai ver as que mais saiu. Aí ele vai sugerir, sugerir o jogo que acompanha a espinha dorsal. Entendeu? Aí ele vai ver um desenho, 001, 2, 3, 0000, 001, o desenho de cada ciclo. Aí depois ele vai checar os desenhos de todo o ciclo. Ver se tem algum ciclo recorrente de desenho de 001, 002, 00... Aí ele vai sugerir uma cena, um jogo. Entendeu?
+Deu erro de novo. Agora nós vai consertar, porque eu não vou ficar mandando você remontar amanhã. Agora nós vai consertar. Fala aí o que é pra fazer pra consertar.
+... Hi Aliyafali.
+Compilou uma porcaria travada. Agora eu quero que você faça um aplicativo de estudo, nós vai montar, para todas as modalidades de loteria. Aí eu vou te falar o que eu quero, modo por modo, pra gente fazer uma coisa certa. Não vou ficar tentando, tentando, tentando aqui, dando merda. Olha que merda, tudo travado, ridículo o painel, tem nem como chamar isso de aplicativo.
+Pode ser o dashboard desse aí, ó, ele mostra o último resultado, é, mas aí aí clica na modalidade, carrega o concurso, aí tem os submódulos que geram o estudo. Pode ser um simples assim, ó.
+É lá no computador, o botão novo, repertório, o repertório tava visível, aqui eu não tô vendo.
+Aqui que tá umas dificuldades minhas. Como é que eu vou arrastar agora o arquivo?
+GARIMPADOR_MEGA_SENA_10_15_20_INDEPENDENTE_SEM_WORKFLOW.zip
+Arquivo zip
+Como é que eu vou mandar os arquivos separado na estrutura da raiz?
+Aqui tá rodando, mas lá em cima diz que já deu sucesso, aí eu já baixei aqui. Será que ele, o que que foi que tá acontecendo? Já finalizou?
+Aí tem a foto das bordas, aí tem um grupo que falhou bastante na história de cada grupo, cada tipo, e aí tem os grupos de Purupar, Puruímpe e Primo Fibonacci. Analisa pra você ver.
+LOTOMANIA ERRE 10 PARES E 10 ÍMPARES E GANHE(360P).mp4
+Arquivo
+
+Pronto. Montei o primeiro projeto do Minerador Timemania — Futuro. A estrutura respeita a Timemania oficial: 80 números, aposta de 10 e sorteio de 7, com premiação de 3 a 7 acertos.
+
+Ele já vem com Módulo 1 — Minerador Geral, Módulo 2 — 3 Duplas Populares e Módulo 3 — Minerador de Grupo de 10 a 40 dezenas. No módulo das três duplas, o núcleo de 6 precisa ter alcançado pelo menos quadra no histórico; quina e 6 acertos recebem peso maior, e as outras 4 dezenas são completadas pela evolução.
+
+⬇️ BAIXAR PROJETO ZIP — MINERADOR TIMEMANIA
+
+ABRIR GITHUB
+
+No GitHub, crie .github/workflows/main.yml e cole:
+
+Depois: Commit changes → Actions → COMPILAR APK MINERADOR TIMEMANIA → Run workflow. 
+
+Que coisa ridícula é essa que você fez? A Tim Maria, eu trevi amarela pro verde. Lá tá o coisa do Android, o dashboard horrível, horrível. Pode remontar o projeto Tim Maria.
+
+Remontei o projeto. Agora ele está com dashboard verde e amarelo, ícone próprio da Timemania, cards separados por módulo, progresso visível e resultado dentro de painel — sem aquela aparência crua de Android.
+
+Mantive os três módulos e preservei o motor; essa versão corrige principalmente a interface e a apresentação.
+
+Baixar MINERADOR TIMEMANIA V2 — DASHBOARD NOVO
+
+Quando você subir esse ZIP no GitHub, use o mesmo esquema de compilação. Se quiser, na próxima mensagem eu mando já o link do GitHub + o fluxo de trabalho completo da V2. 
+
+Manda o fluxo de trabalho, você não mandou ainda? Manda o fluxo de trabalho.
+
+Sim. Aqui está o fluxo de trabalho da V2 do Minerador Timemania. Crie no GitHub:
+
+.github/workflows/main.yml
+
+e cole exatamente isto:
+
+name: COMPILAR APK MINERADOR TIMEMANIA V2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar projeto
+        uses: actions/checkout@v4
+
+      - name: Configurar Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Configurar Gradle 8.9
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.9"
+
+      - name: Conferir projeto
+        shell: bash
+        run: |
+          echo "=== MINERADOR TIMEMANIA V2 ==="
+          pwd
+          ls -la
+
+          echo "=== ESTRUTURA DO APP ==="
+          find app -type f | sort
+
+          echo "=== ARQUIVOS JAVA ==="
+          find app/src/main/java -type f -name "*.java" -print | sort
+
+          echo "=== MAIN ACTIVITY ==="
+          find app/src/main/java -name "MainActivity.java" -print
+
+          echo "=== MOTOR DO MINERADOR ==="
+          find app/src/main/java -name "MiningEngine.java" -print
+
+          echo "=== LEITOR DA TIMEMANIA ==="
+          find app/src/main/java -name "TimemaniaParser.java" -print
+
+          echo "=== ÍCONE ==="
+          find app/src/main/res -name "ic_timemania.xml" -print
+
+      - name: Compilar APK
+        shell: bash
+        run: |
+          gradle --no-daemon clean :app:assembleDebug --stacktrace
+
+      - name: Localizar APK
+        shell: bash
+        run: |
+          echo "=== APK GERADO ==="
+          find app/build/outputs/apk -type f -name "*.apk" -print
+
+      - name: Preparar APK com nome correto
+        shell: bash
+        run: |
+          mkdir -p apk-final
+          APK=$(find app/build/outputs/apk/debug -type f -name "*.apk" | head -1)
+
+          if [ -z "$APK" ]; then
+            echo "ERRO: APK NÃO FOI ENCONTRADO"
+            exit 1
+          fi
+
+          cp "$APK" apk-final/MINERADOR-TIMEMANIA-V2.apk
+
+          echo "APK preparado:"
+          ls -lh apk-final/
+
+      - name: Salvar APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: MINERADOR-TIMEMANIA-V2-APK
+          path: apk-final/MINERADOR-TIMEMANIA-V2.apk
+          if-no-files-found: error
+          retention-days: 30
+
+Depois é só Commit changes → Actions → COMPILAR APK MINERADOR TIMEMANIA V2 → Run workflow.
+
+O arquivo que você deve subir antes é este: MINERADOR TIMEMANIA V2 — DASHBOARD NOVO.Qual desses arquivos que abre e executa o comando lá? Só um. Eu não vou extrair esse tanto de arquivo, não. Qual desses aqui? Fala qual desses aqui.
+Toda hora você erra nessa execução aqui, ó.
+Agora você pôs ele todo disperso dentro de uma pasta zip. Caralho, você sabe que é uma pasta só com esses aqui dentro, porra?
+puxou todos os arquivos ou tá faltando?
+Cola a tela aí mostrando que você errou de novo.
+Troquei a linha.
+O problema é que eu clico na pasta e ela abre aquela lá, ela não vai ela inteira, seu burro.
+Fez uma merda de aplicativo que não tem botão, que não tem escolha da modalidade lotérica, não tem porra nenhuma. Como é que você faz um aplicativo desse?
+Se você fosse refazer o projeto, você ia certo agora, mais rápido fazer as coisas? Porque os critério, o aplicativo ficou bom, o dashboard, mas os critérios não ficou legal. Eu acho que você misturou os critérios, aí eu tenho que te falar.
+O mesmo problema, você não consegue fazer certo os diretórios, você não consegue fazer, ou você não consegue fazer direito, ou o programa não puxa. Aí vamos ver aqui, que se nós configuro o fluxo de trabalho, o que que dá.
+Fala pra mim melhor aonde é que eu tenho que clicar, que eu não tô, eu não tô me coisando aqui, não tô me situando.
+É aí desses três pontinhos aí?
+Rio 29 tá certo? Vamos pra outra, se tiver certo.
+Ele ficou roxinho assim, mas pode pôr verde.
+Você acha que dá certo esses arquivos tudo separado assim, ó?
+Manda o que tem que colar no fluxo de trabalho aí, que é pra nós compilar agora. Do mesmo jeito que foi o outro, vai dar certinho.
+Foi aqui o que que é pra colar no modo configuração de fluxo de trabalho?
+Igual eu tenho essa interface aqui, ó, ele acha um grupo de 25 de falha recorrente e acha as melhores 25 dezenas jogadas. Aí aqui dentro, ele vai achar jogo dentro do padrão, igual ele achou ali, ó, 136 mil jogos dentro do padrão, 40 mil fora do padrão. Aí ele dá uma olhada e faz dentro dos critérios. Remonta aí o projeto. Em vez de ser grupo de vinte, grupo de vinte e cinco, pra digitar e salvar, igual da megasena.
+Ou na estrutura do arquivo, você tá errando ou no código May, você tá errando. No código May, M-A-Y.
+Deixa eu te falar, pega o mesmo projeto, ele compilou. Só que aí o símbolo deixou o Android feio e eu quero que ponha esse da foto aí, amarelo com verde. E ele não soltou, ele soltou o PDF normal, mas não soltou o time. Ele tem que fazer um estudo do time. Qual time eu vou apostar. Se é o que mais tá saindo, se é o que é mais da história. Eu acho que acredito é o que mais tá saindo, né? Então, aí você pode pegar o mesmo projeto, tudo compilou, tudo direitinho. Só mudar isso aí. Dois detalhes aí. O símbolo e soltar o PDF com o time.
+
+Agora ficou claro: o erro veio justamente da versão em que eu mexi para colocar o ícone e o Time do Coração. A versão anterior compilou, então o certo é não mexer na estrutura nem no fluxo.
+
+Vou fazer do jeito seguro: pegar exatamente a Timemania que compilou, preservar MainActivity, Gradle, manifesto e workflow, e alterar só o mínimo necessário para:
+
+trocar o ícone padrão do Android por um verde/amarelo;
+acrescentar o Time do Coração recomendado na tela e no PDF.
+
+Não precisa mexer em nada no GitHub agora. Eu vou te entregar outro ZIP baseado somente no projeto que compilou, sem reaproveitar a versão que falhou.
+
+Compilou, mas veio com defeito. Ele tá falando que o time do coração não tá registrado no TXT. Olha aí, eu abri os arquivos de TXT, todos os times, todos os times de um, tem o código dele, tem o nome tudo, todos os times aí, todos no resultado. Como que não?
+Manda o fluxo de trabalho
+Aonde que você errou?
+Se errou em alguma coisa, revisa e remonta que eu vou apagar tudo. É melhor assim.
+LOTOFACIL_6_MODULOS_PRONTO_GITHUB(1).zip
+Arquivo zip
+LOTOFACIL-6-MODULOS-APK.zip
+Arquivo zip
+copilou, mas eu quero que você aproveite o mesmo aplicativo para colocar mais dois projetos. Primeiro, eu montar um jogo no próximo módulo, aí é 11, aí é o módulo 12, eu montar o jogo e ele classificar pra mim dentro dos padrões e gerar o PDF se eu quiser salvar, entendeu? Aí, o outro módulo que eu ia colocar, é pra ele achar jogo similar, tipo assim, esse último resultado que saiu, vamos supor, o último, aí ele procura todos, todos similar, parecido, que às vezes é que varia de uma a duas dezenas, com a mesma, com o mesmo critério de padrão, sabe? Príncipa, tudo. Só muda as dezenas em si, duas, três dezenas no máximo. A variação, e escolhe o melhor evoluído. Aí é por similaridade e evolução. Aí ficava 11, 12, ficava 13 módulos, né?
+MEGA_SENA_VERDE_2_MODULOS_PRONTO_GITHUB(1).zip
+Arquivo zip
+MEGA-SENA-2-MODULOS-APK.zip
+Arquivo zip
+Você fez a boa coisa errada. Aproveita o de 21 e faz o 22 certo. Vou apagar tudo aqui, você faz, remonta certo.
+Eu vou acrescentar um módulo na Lotamania, eu vou ver se eu acho o zip aqui do projeto, pra você acrescentar mais um módulo, tá? Esses módulos é o que estão lá no projeto Lotamania. Eu vou acrescentar um módulo, é o seguinte: o sistema vai montar um jogo. Aí o sistema vai montar um jogo. Ele vai na primeira linha, vai montar um jogo campeão de pontos, sabe? Tudo que tiver de melhor por linha. Só que, de maneira que o espelho, o outro lado que ficar, vai ter que ser campeão de ponto também. Ele vai montar um jogo campeão de pontos que do outro lado, as combinações que restar são aquelas que também é campeões de ponto. Então ele tem que mapear todos os resultados e fazer uma compilação deles. Vamos supor que eu ponho meia um, meia quatro, meia cinco. Aí o que sobrar, meia dois, meia oito, meia nove, 70, também tem que ser campeão de ponto. Eu vou montar um jogo que ele seja campeão de ponto, equilibrado com o espelho que também é campeão de ponto. Eu vou montar o melhor jogo da Lotomania, sabe? Eu não posso mandar o melhor jogo e o que sobrar é resto. Não. O que sobrar também tem que encaixar e pontuação grande. Você tá entendendo?
+LOTOMANIA_LARANJA_4_MODULOS_GERA_JOGO_E_PDF(1).zip
+Arquivo zip
+LOTOMANIA-LARANJA-JOGO-PDF-APK.zip
+Arquivo zip
+O módulo cinco tá dando um erro lá em cima, olha aí a legenda pra você ver.
+Continua o mesmo erro. Que erro é esse? Você conseguiu identificar de que procede, que erro é esse, como consertar?
+Agora aqui é os grupos de número da Loto Fácil, puro par, puro ímpar e primo Fibonacci.
+Agora aqui é um grupo que eu encontrei de dezenas de cada grupo desse que mais falhou, por enquanto, pelo meu conhecimento, que mais falhou na história da Loto Fácil. Pode ter outros grupos que mais falhou, mas pelo meu conhecimento, tem esse grupo para ele servir de guia. Aí eu vou te falar como que vai ser a montagem do próximo módulo da Loto Mania.
+
+Pronto. A Lotomania ficou com 6 módulos, usando como base a versão M5 FIX 2.
+
+O Módulo 6 — Bordas + 80 Falhas + Grupos ficou com exatamente as divisões que você definiu: Borda 1 36 → 16 sorteiam / 20 falham; Borda 2 28 → 10 / 18; Borda 3 20 → 10 / 10; Borda 4 12 → 10 / 2; Borda 5 4 → 4 / 0.
+
+O foco do motor são as 80 falhas atuais. Puro Par, Puro Ímpar, Primo/Fibonacci e os grupos históricos de falha entram como consulta para reforçar o score, não como regra obrigatória.
+
+O relatório mostra, para cada borda, quantas dezenas existem em cada grupo, quantas daquela borda estão dentro das 80 falhas, como essas falhas se distribuem pelos grupos e quais dezenas foram classificadas para sortear e para falhar.
+
+O PDF do Módulo 6 ficou com 3 páginas: Jogo, Espelho e Relatório completo do estudo.
+
+Também testei o motor: as cinco bordas cobrem as 100 dezenas sem repetição, e o resultado fechou corretamente em 50 dezenas no jogo + 50 no espelho.
+
+Baixar LOTOMANIA LARANJA — 6 MÓDULOS — BORDAS + 80 FALHAS + ESTUDO 
+
+Deu erro, revisa e monta tudo de novo.
+Tava pensando em incluir o módulo, você olha esses jogo aí, o último resultado da espinha dorsal dele. Nós vai, nós vai medir assim, ó. Nós vai pegar desde a espinha dorsal, desde o concurso um. Concurso um saiu um dela. Aí o que que ele vai pegar? Ele vai pegar do concurso 1 até terminar o primeiro ciclo e fazer um balanceamento das dezenas que mais saiu. Ah, rodou tantas vezes o globo, demorou tantos concursos, mas a dezena campeã do primeiro ciclo foi a X, Y, Z. Pode pôr seis, campeão. Aí, vai pro segundo, olhar a espinha dorsal, o segundo ciclo. Y, X, Y, Z. Terceiro ciclo. Até o último resultado. Aí ele vai ver as que mais saiu. Aí ele vai sugerir, sugerir o jogo que acompanha a espinha dorsal. Entendeu? Aí ele vai ver um desenho, 001, 2, 3, 0000, 001, o desenho de cada ciclo. Aí depois ele vai checar os desenhos de todo o ciclo. Ver se tem algum ciclo recorrente de desenho de 001, 002, 00... Aí ele vai sugerir uma cena, um jogo. Entendeu?
+Deu erro de novo. Agora nós vai consertar, porque eu não vou ficar mandando você remontar amanhã. Agora nós vai consertar. Fala aí o que é pra fazer pra consertar.
+... Hi Aliyafali.
+Compilou uma porcaria travada. Agora eu quero que você faça um aplicativo de estudo, nós vai montar, para todas as modalidades de loteria. Aí eu vou te falar o que eu quero, modo por modo, pra gente fazer uma coisa certa. Não vou ficar tentando, tentando, tentando aqui, dando merda. Olha que merda, tudo travado, ridículo o painel, tem nem como chamar isso de aplicativo.
+Pode ser o dashboard desse aí, ó, ele mostra o último resultado, é, mas aí aí clica na modalidade, carrega o concurso, aí tem os submódulos que geram o estudo. Pode ser um simples assim, ó.
+É lá no computador, o botão novo, repertório, o repertório tava visível, aqui eu não tô vendo.
+Aqui que tá umas dificuldades minhas. Como é que eu vou arrastar agora o arquivo?
+GARIMPADOR_MEGA_SENA_10_15_20_INDEPENDENTE_SEM_WORKFLOW.zip
+Arquivo zip
+Como é que eu vou mandar os arquivos separado na estrutura da raiz?
+Aqui tá rodando, mas lá em cima diz que já deu sucesso, aí eu já baixei aqui. Será que ele, o que que foi que tá acontecendo? Já finalizou?
+Aí tem a foto das bordas, aí tem um grupo que falhou bastante na história de cada grupo, cada tipo, e aí tem os grupos de Purupar, Puruímpe e Primo Fibonacci. Analisa pra você ver.
+LOTOMANIA ERRE 10 PARES E 10 ÍMPARES E GANHE(360P).mp4
+Arquivo
+
+Pronto. Montei o primeiro projeto do Minerador Timemania — Futuro. A estrutura respeita a Timemania oficial: 80 números, aposta de 10 e sorteio de 7, com premiação de 3 a 7 acertos.
+
+Ele já vem com Módulo 1 — Minerador Geral, Módulo 2 — 3 Duplas Populares e Módulo 3 — Minerador de Grupo de 10 a 40 dezenas. No módulo das três duplas, o núcleo de 6 precisa ter alcançado pelo menos quadra no histórico; quina e 6 acertos recebem peso maior, e as outras 4 dezenas são completadas pela evolução.
+
+⬇️ BAIXAR PROJETO ZIP — MINERADOR TIMEMANIA
+
+ABRIR GITHUB
+
+No GitHub, crie .github/workflows/main.yml e cole:
+
+Depois: Commit changes → Actions → COMPILAR APK MINERADOR TIMEMANIA → Run workflow. 
+
+Que coisa ridícula é essa que você fez? A Tim Maria, eu trevi amarela pro verde. Lá tá o coisa do Android, o dashboard horrível, horrível. Pode remontar o projeto Tim Maria.
+
+Remontei o projeto. Agora ele está com dashboard verde e amarelo, ícone próprio da Timemania, cards separados por módulo, progresso visível e resultado dentro de painel — sem aquela aparência crua de Android.
+
+Mantive os três módulos e preservei o motor; essa versão corrige principalmente a interface e a apresentação.
+
+Baixar MINERADOR TIMEMANIA V2 — DASHBOARD NOVO
+
+Quando você subir esse ZIP no GitHub, use o mesmo esquema de compilação. Se quiser, na próxima mensagem eu mando já o link do GitHub + o fluxo de trabalho completo da V2. 
+
+Manda o fluxo de trabalho, você não mandou ainda? Manda o fluxo de trabalho.
+
+Sim. Aqui está o fluxo de trabalho da V2 do Minerador Timemania. Crie no GitHub:
+
+.github/workflows/main.yml
+
+e cole exatamente isto:
+
+name: COMPILAR APK MINERADOR TIMEMANIA V2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar projeto
+        uses: actions/checkout@v4
+
+      - name: Configurar Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Configurar Gradle 8.9
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.9"
+
+      - name: Conferir projeto
+        shell: bash
+        run: |
+          echo "=== MINERADOR TIMEMANIA V2 ==="
+          pwd
+          ls -la
+
+          echo "=== ESTRUTURA DO APP ==="
+          find app -type f | sort
+
+          echo "=== ARQUIVOS JAVA ==="
+          find app/src/main/java -type f -name "*.java" -print | sort
+
+          echo "=== MAIN ACTIVITY ==="
+          find app/src/main/java -name "MainActivity.java" -print
+
+          echo "=== MOTOR DO MINERADOR ==="
+          find app/src/main/java -name "MiningEngine.java" -print
+
+          echo "=== LEITOR DA TIMEMANIA ==="
+          find app/src/main/java -name "TimemaniaParser.java" -print
+
+          echo "=== ÍCONE ==="
+          find app/src/main/res -name "ic_timemania.xml" -print
+
+      - name: Compilar APK
+        shell: bash
+        run: |
+          gradle --no-daemon clean :app:assembleDebug --stacktrace
+
+      - name: Localizar APK
+        shell: bash
+        run: |
+          echo "=== APK GERADO ==="
+          find app/build/outputs/apk -type f -name "*.apk" -print
+
+      - name: Preparar APK com nome correto
+        shell: bash
+        run: |
+          mkdir -p apk-final
+          APK=$(find app/build/outputs/apk/debug -type f -name "*.apk" | head -1)
+
+          if [ -z "$APK" ]; then
+            echo "ERRO: APK NÃO FOI ENCONTRADO"
+            exit 1
+          fi
+
+          cp "$APK" apk-final/MINERADOR-TIMEMANIA-V2.apk
+
+          echo "APK preparado:"
+          ls -lh apk-final/
+
+      - name: Salvar APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: MINERADOR-TIMEMANIA-V2-APK
+          path: apk-final/MINERADOR-TIMEMANIA-V2.apk
+          if-no-files-found: error
+          retention-days: 30
+
+Depois é só Commit changes → Actions → COMPILAR APK MINERADOR TIMEMANIA V2 → Run workflow.
+
+O arquivo que você deve subir antes é este: MINERADOR TIMEMANIA V2 — DASHBOARD NOVO.Qual desses arquivos que abre e executa o comando lá? Só um. Eu não vou extrair esse tanto de arquivo, não. Qual desses aqui? Fala qual desses aqui.
+Toda hora você erra nessa execução aqui, ó.
+Agora você pôs ele todo disperso dentro de uma pasta zip. Caralho, você sabe que é uma pasta só com esses aqui dentro, porra?
+puxou todos os arquivos ou tá faltando?
+Cola a tela aí mostrando que você errou de novo.
+Troquei a linha.
+O problema é que eu clico na pasta e ela abre aquela lá, ela não vai ela inteira, seu burro.
+Fez uma merda de aplicativo que não tem botão, que não tem escolha da modalidade lotérica, não tem porra nenhuma. Como é que você faz um aplicativo desse?
+Se você fosse refazer o projeto, você ia certo agora, mais rápido fazer as coisas? Porque os critério, o aplicativo ficou bom, o dashboard, mas os critérios não ficou legal. Eu acho que você misturou os critérios, aí eu tenho que te falar.
+O mesmo problema, você não consegue fazer certo os diretórios, você não consegue fazer, ou você não consegue fazer direito, ou o programa não puxa. Aí vamos ver aqui, que se nós configuro o fluxo de trabalho, o que que dá.
+Fala pra mim melhor aonde é que eu tenho que clicar, que eu não tô, eu não tô me coisando aqui, não tô me situando.
+É aí desses três pontinhos aí?
+Rio 29 tá certo? Vamos pra outra, se tiver certo.
+Ele ficou roxinho assim, mas pode pôr verde.
+Você acha que dá certo esses arquivos tudo separado assim, ó?
+Manda o que tem que colar no fluxo de trabalho aí, que é pra nós compilar agora. Do mesmo jeito que foi o outro, vai dar certinho.
+Foi aqui o que que é pra colar no modo configuração de fluxo de trabalho?
+Igual eu tenho essa interface aqui, ó, ele acha um grupo de 25 de falha recorrente e acha as melhores 25 dezenas jogadas. Aí aqui dentro, ele vai achar jogo dentro do padrão, igual ele achou ali, ó, 136 mil jogos dentro do padrão, 40 mil fora do padrão. Aí ele dá uma olhada e faz dentro dos critérios. Remonta aí o projeto. Em vez de ser grupo de vinte, grupo de vinte e cinco, pra digitar e salvar, igual da megasena.
+Ou na estrutura do arquivo, você tá errando ou no código May, você tá errando. No código May, M-A-Y.
+Deixa eu te falar, pega o mesmo projeto, ele compilou. Só que aí o símbolo deixou o Android feio e eu quero que ponha esse da foto aí, amarelo com verde. E ele não soltou, ele soltou o PDF normal, mas não soltou o time. Ele tem que fazer um estudo do time. Qual time eu vou apostar. Se é o que mais tá saindo, se é o que é mais da história. Eu acho que acredito é o que mais tá saindo, né? Então, aí você pode pegar o mesmo projeto, tudo compilou, tudo direitinho. Só mudar isso aí. Dois detalhes aí. O símbolo e soltar o PDF com o time.
+
+Agora ficou claro: o erro veio justamente da versão em que eu mexi para colocar o ícone e o Time do Coração. A versão anterior compilou, então o certo é não mexer na estrutura nem no fluxo.
+
+Vou fazer do jeito seguro: pegar exatamente a Timemania que compilou, preservar MainActivity, Gradle, manifesto e workflow, e alterar só o mínimo necessário para:
+
+trocar o ícone padrão do Android por um verde/amarelo;
+acrescentar o Time do Coração recomendado na tela e no PDF.
+
+Não precisa mexer em nada no GitHub agora. Eu vou te entregar outro ZIP baseado somente no projeto que compilou, sem reaproveitar a versão que falhou.
+
+Compilou, mas veio com defeito. Ele tá falando que o time do coração não tá registrado no TXT. Olha aí, eu abri os arquivos de TXT, todos os times, todos os times de um, tem o código dele, tem o nome tudo, todos os times aí, todos no resultado. Como que não?
+Manda o fluxo de trabalho
+Aonde que você errou?
+Se errou em alguma coisa, revisa e remonta que eu vou apagar tudo. É melhor assim.
+LOTOFACIL_6_MODULOS_PRONTO_GITHUB(1).zip
+Arquivo zip
+LOTOFACIL-6-MODULOS-APK.zip
+Arquivo zip
+copilou, mas eu quero que você aproveite o mesmo aplicativo para colocar mais dois projetos. Primeiro, eu montar um jogo no próximo módulo, aí é 11, aí é o módulo 12, eu montar o jogo e ele classificar pra mim dentro dos padrões e gerar o PDF se eu quiser salvar, entendeu? Aí, o outro módulo que eu ia colocar, é pra ele achar jogo similar, tipo assim, esse último resultado que saiu, vamos supor, o último, aí ele procura todos, todos similar, parecido, que às vezes é que varia de uma a duas dezenas, com a mesma, com o mesmo critério de padrão, sabe? Príncipa, tudo. Só muda as dezenas em si, duas, três dezenas no máximo. A variação, e escolhe o melhor evoluído. Aí é por similaridade e evolução. Aí ficava 11, 12, ficava 13 módulos, né?
+MEGA_SENA_VERDE_2_MODULOS_PRONTO_GITHUB(1).zip
+Arquivo zip
+MEGA-SENA-2-MODULOS-APK.zip
+Arquivo zip
+Você fez a boa coisa errada. Aproveita o de 21 e faz o 22 certo. Vou apagar tudo aqui, você faz, remonta certo.
+Eu vou acrescentar um módulo na Lotamania, eu vou ver se eu acho o zip aqui do projeto, pra você acrescentar mais um módulo, tá? Esses módulos é o que estão lá no projeto Lotamania. Eu vou acrescentar um módulo, é o seguinte: o sistema vai montar um jogo. Aí o sistema vai montar um jogo. Ele vai na primeira linha, vai montar um jogo campeão de pontos, sabe? Tudo que tiver de melhor por linha. Só que, de maneira que o espelho, o outro lado que ficar, vai ter que ser campeão de ponto também. Ele vai montar um jogo campeão de pontos que do outro lado, as combinações que restar são aquelas que também é campeões de ponto. Então ele tem que mapear todos os resultados e fazer uma compilação deles. Vamos supor que eu ponho meia um, meia quatro, meia cinco. Aí o que sobrar, meia dois, meia oito, meia nove, 70, também tem que ser campeão de ponto. Eu vou montar um jogo que ele seja campeão de ponto, equilibrado com o espelho que também é campeão de ponto. Eu vou montar o melhor jogo da Lotomania, sabe? Eu não posso mandar o melhor jogo e o que sobrar é resto. Não. O que sobrar também tem que encaixar e pontuação grande. Você tá entendendo?
+LOTOMANIA_LARANJA_4_MODULOS_GERA_JOGO_E_PDF(1).zip
+Arquivo zip
+LOTOMANIA-LARANJA-JOGO-PDF-APK.zip
+Arquivo zip
+O módulo cinco tá dando um erro lá em cima, olha aí a legenda pra você ver.
+Continua o mesmo erro. Que erro é esse? Você conseguiu identificar de que procede, que erro é esse, como consertar?
+Agora aqui é os grupos de número da Loto Fácil, puro par, puro ímpar e primo Fibonacci.
+Agora aqui é um grupo que eu encontrei de dezenas de cada grupo desse que mais falhou, por enquanto, pelo meu conhecimento, que mais falhou na história da Loto Fácil. Pode ter outros grupos que mais falhou, mas pelo meu conhecimento, tem esse grupo para ele servir de guia. Aí eu vou te falar como que vai ser a montagem do próximo módulo da Loto Mania.
+
+Pronto. A Lotomania ficou com 6 módulos, usando como base a versão M5 FIX 2.
+
+O Módulo 6 — Bordas + 80 Falhas + Grupos ficou com exatamente as divisões que você definiu: Borda 1 36 → 16 sorteiam / 20 falham; Borda 2 28 → 10 / 18; Borda 3 20 → 10 / 10; Borda 4 12 → 10 / 2; Borda 5 4 → 4 / 0.
+
+O foco do motor são as 80 falhas atuais. Puro Par, Puro Ímpar, Primo/Fibonacci e os grupos históricos de falha entram como consulta para reforçar o score, não como regra obrigatória.
+
+O relatório mostra, para cada borda, quantas dezenas existem em cada grupo, quantas daquela borda estão dentro das 80 falhas, como essas falhas se distribuem pelos grupos e quais dezenas foram classificadas para sortear e para falhar.
+
+O PDF do Módulo 6 ficou com 3 páginas: Jogo, Espelho e Relatório completo do estudo.
+
+Também testei o motor: as cinco bordas cobrem as 100 dezenas sem repetição, e o resultado fechou corretamente em 50 dezenas no jogo + 50 no espelho.
+
+Baixar LOTOMANIA LARANJA — 6 MÓDULOS — BORDAS + 80 FALHAS + ESTUDO 
+
+Deu erro, revisa e monta tudo de novo.
+Tava pensando em incluir o módulo, você olha esses jogo aí, o último resultado da espinha dorsal dele. Nós vai, nós vai medir assim, ó. Nós vai pegar desde a espinha dorsal, desde o concurso um. Concurso um saiu um dela. Aí o que que ele vai pegar? Ele vai pegar do concurso 1 até terminar o primeiro ciclo e fazer um balanceamento das dezenas que mais saiu. Ah, rodou tantas vezes o globo, demorou tantos concursos, mas a dezena campeã do primeiro ciclo foi a X, Y, Z. Pode pôr seis, campeão. Aí, vai pro segundo, olhar a espinha dorsal, o segundo ciclo. Y, X, Y, Z. Terceiro ciclo. Até o último resultado. Aí ele vai ver as que mais saiu. Aí ele vai sugerir, sugerir o jogo que acompanha a espinha dorsal. Entendeu? Aí ele vai ver um desenho, 001, 2, 3, 0000, 001, o desenho de cada ciclo. Aí depois ele vai checar os desenhos de todo o ciclo. Ver se tem algum ciclo recorrente de desenho de 001, 002, 00... Aí ele vai sugerir uma cena, um jogo. Entendeu?
+Deu erro de novo. Agora nós vai consertar, porque eu não vou ficar mandando você remontar amanhã. Agora nós vai consertar. Fala aí o que é pra fazer pra consertar.
+... Hi Aliyafali.
+Compilou uma porcaria travada. Agora eu quero que você faça um aplicativo de estudo, nós vai montar, para todas as modalidades de loteria. Aí eu vou te falar o que eu quero, modo por modo, pra gente fazer uma coisa certa. Não vou ficar tentando, tentando, tentando aqui, dando merda. Olha que merda, tudo travado, ridículo o painel, tem nem como chamar isso de aplicativo.
+Pode ser o dashboard desse aí, ó, ele mostra o último resultado, é, mas aí aí clica na modalidade, carrega o concurso, aí tem os submódulos que geram o estudo. Pode ser um simples assim, ó.
+É lá no computador, o botão novo, repertório, o repertório tava visível, aqui eu não tô vendo.
+Aqui que tá umas dificuldades minhas. Como é que eu vou arrastar agora o arquivo?
+GARIMPADOR_MEGA_SENA_10_15_20_INDEPENDENTE_SEM_WORKFLOW.zip
+Arquivo zip
+Como é que eu vou mandar os arquivos separado na estrutura da raiz?
+Aqui tá rodando, mas lá em cima diz que já deu sucesso, aí eu já baixei aqui. Será que ele, o que que foi que tá acontecendo? Já finalizou?
+Aí tem a foto das bordas, aí tem um grupo que falhou bastante na história de cada grupo, cada tipo, e aí tem os grupos de Purupar, Puruímpe e Primo Fibonacci. Analisa pra você ver.
+LOTOMANIA ERRE 10 PARES E 10 ÍMPARES E GANHE(360P).mp4
+Arquivo
+
+Pronto. Montei o primeiro projeto do Minerador Timemania — Futuro. A estrutura respeita a Timemania oficial: 80 números, aposta de 10 e sorteio de 7, com premiação de 3 a 7 acertos.
+
+Ele já vem com Módulo 1 — Minerador Geral, Módulo 2 — 3 Duplas Populares e Módulo 3 — Minerador de Grupo de 10 a 40 dezenas. No módulo das três duplas, o núcleo de 6 precisa ter alcançado pelo menos quadra no histórico; quina e 6 acertos recebem peso maior, e as outras 4 dezenas são completadas pela evolução.
+
+⬇️ BAIXAR PROJETO ZIP — MINERADOR TIMEMANIA
+
+ABRIR GITHUB
+
+No GitHub, crie .github/workflows/main.yml e cole:
+
+Depois: Commit changes → Actions → COMPILAR APK MINERADOR TIMEMANIA → Run workflow. 
+
+Que coisa ridícula é essa que você fez? A Tim Maria, eu trevi amarela pro verde. Lá tá o coisa do Android, o dashboard horrível, horrível. Pode remontar o projeto Tim Maria.
+
+Remontei o projeto. Agora ele está com dashboard verde e amarelo, ícone próprio da Timemania, cards separados por módulo, progresso visível e resultado dentro de painel — sem aquela aparência crua de Android.
+
+Mantive os três módulos e preservei o motor; essa versão corrige principalmente a interface e a apresentação.
+
+Baixar MINERADOR TIMEMANIA V2 — DASHBOARD NOVO
+
+Quando você subir esse ZIP no GitHub, use o mesmo esquema de compilação. Se quiser, na próxima mensagem eu mando já o link do GitHub + o fluxo de trabalho completo da V2. 
+
+Manda o fluxo de trabalho, você não mandou ainda? Manda o fluxo de trabalho.
+
+Sim. Aqui está o fluxo de trabalho da V2 do Minerador Timemania. Crie no GitHub:
+
+.github/workflows/main.yml
+
+e cole exatamente isto:
+
+name: COMPILAR APK MINERADOR TIMEMANIA V2
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar projeto
+        uses: actions/checkout@v4
+
+      - name: Configurar Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Configurar Gradle 8.9
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.9"
+
+      - name: Conferir projeto
+        shell: bash
+        run: |
+          echo "=== MINERADOR TIMEMANIA V2 ==="
+          pwd
+          ls -la
+
+          echo "=== ESTRUTURA DO APP ==="
+          find app -type f | sort
+
+          echo "=== ARQUIVOS JAVA ==="
+          find app/src/main/java -type f -name "*.java" -print | sort
+
+          echo "=== MAIN ACTIVITY ==="
+          find app/src/main/java -name "MainActivity.java" -print
+
+          echo "=== MOTOR DO MINERADOR ==="
+          find app/src/main/java -name "MiningEngine.java" -print
+
+          echo "=== LEITOR DA TIMEMANIA ==="
+          find app/src/main/java -name "TimemaniaParser.java" -print
+
+          echo "=== ÍCONE ==="
+          find app/src/main/res -name "ic_timemania.xml" -print
+
+      - name: Compilar APK
+        shell: bash
+        run: |
+          gradle --no-daemon clean :app:assembleDebug --stacktrace
+
+      - name: Localizar APK
+        shell: bash
+        run: |
+          echo "=== APK GERADO ==="
+          find app/build/outputs/apk -type f -name "*.apk" -print
+
+      - name: Preparar APK com nome correto
+        shell: bash
+        run: |
+          mkdir -p apk-final
+          APK=$(find app/build/outputs/apk/debug -type f -name "*.apk" | head -1)
+
+          if [ -z "$APK" ]; then
+            echo "ERRO: APK NÃO FOI ENCONTRADO"
+            exit 1
+          fi
+
+          cp "$APK" apk-final/MINERADOR-TIMEMANIA-V2.apk
+
+          echo "APK preparado:"
+          ls -lh apk-final/
+
+      - name: Salvar APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: MINERADOR-TIMEMANIA-V2-APK
+          path: apk-final/MINERADOR-TIMEMANIA-V2.apk
+          if-no-files-found: error
+          retention-days: 30
+
+Depois é só Commit changes → Actions → COMPILAR APK MINERADOR TIMEMANIA V2 → Run workflow.
+
+O arquivo que você deve subir antes é este: MINERADOR TIMEMANIA V2 — DASHBOARD NOVO.VV
